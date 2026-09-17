@@ -56,6 +56,7 @@ function FeedbackForm({ initialValues, onSubmitFeedback }) {
       feedback: formData.feedback.trim(),
       submittedAt: new Date().toLocaleString(),
     });
+    setFormData(initialValues);
     setSuccess(true);
     setError('');
   };

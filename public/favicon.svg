@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Student Feedback Form">
+  <rect width="64" height="64" rx="14" fill="#111111"/>
+  <path d="M16 16h32v24H29l-9 9v-9h-4V16Z" fill="#ffffff"/>
+  <path d="M24 25h16M24 32h10" stroke="#111111" stroke-width="4" stroke-linecap="round"/>
+</svg>
